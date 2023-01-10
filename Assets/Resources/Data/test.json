@@ -1,0 +1,43 @@
+{
+  "objects": [
+    {
+      "name": "Box1",
+      "x": -4,
+      "t": 0,
+      "additional": 3,
+      "xrange": 2
+    },
+    {
+      "name": "Heart",
+      "x": 2,
+      "t": 0
+    },
+    {
+      "name": "Thorn",
+      "x": -3,
+      "t": 1
+    },
+    {
+      "name": "Thorn",
+      "x": -1,
+      "t": 1
+    },
+    {
+      "name": "Bomb",
+      "x": 3,
+      "t": 3
+    },
+    {
+      "name": "Ball",
+      "x": -2,
+      "t": 4
+    },
+    {
+      "name": "Coin",
+      "x": 4,
+      "t": 5,
+      "additional": 9,
+      "xrange": 4
+    }
+  ]
+}
