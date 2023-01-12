@@ -2,4 +2,4 @@
 ピクミンのシーソーゲーム(未完成)
 
 ## 遊ぶ
-[こちら](https://noamoa16.github.io/piklining/)
+[**こちらをクリック！**](https://noamoa16.github.io/piklining/)
