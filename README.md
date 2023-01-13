@@ -3,3 +3,5 @@
 
 ## 遊ぶ
 [**こちらをクリック！**](https://noamoa16.github.io/piklining/)
+
+<img src="image.png" width=700>
